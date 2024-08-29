@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhet
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react Native
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ReactJS, NextJS, React Native, nodejs, HTML5, CSS, JS and TS.
 - 📫 How to reach me muhedarius96@gmail.com or toll +250786964660 
 
